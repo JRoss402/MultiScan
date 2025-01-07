@@ -1,0 +1,7 @@
+Add the ability to distinguish between closed and filtered ==> rst vs dropped
+Add ability for user to specify timeout
+Add ability for user to specify retries
+Add argparse to main
+Try to add a verbose option that shows interesting stuff?
+Add conditional to check for different arg flags
+
